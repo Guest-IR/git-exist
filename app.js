@@ -14,6 +14,3 @@ const getMe=(user)=>{
     return true
  }
 
- const addCourse=(course)=>{
-    return true 
- }
