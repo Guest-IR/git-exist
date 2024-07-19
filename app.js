@@ -14,3 +14,10 @@ const getMe=(user)=>{
     return true
  }
 
+ const addCourse=(course)=>{
+    return true
+ }
+
+ const group=(groupuser)=>{
+    return true
+ }
