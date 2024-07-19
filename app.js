@@ -7,5 +7,9 @@ const register=(user)=>{
 }
 
 const getMe=(user)=>{
-   return "user"
-}
+    return "user"
+ }
+
+ const phoneNumber=(numb)=>{
+    return true
+ }
