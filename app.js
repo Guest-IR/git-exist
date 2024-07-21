@@ -18,6 +18,3 @@ const getMe=(user)=>{
     return true 
  }
  
- const test=()=>{
-   return false
- }
