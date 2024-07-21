@@ -13,7 +13,7 @@ const getMe=(user)=>{
  const phoneNumber=(numb)=>{
     return true
  }
- 
- const test=()=>{
-    return false
+
+ const addCourse=(course)=>{
+    return true 
  }
