@@ -14,13 +14,7 @@ const getMe=(user)=>{
     return true
  }
 
- const addCourse=(course)=>{
-    return true 
- }
- 
-const test=()=>{
-   return false 
-}
+
 
 const setTicket=()=>{
    return true 
