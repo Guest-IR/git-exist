@@ -21,3 +21,7 @@ const getMe=(user)=>{
 const test=()=>{
    return false 
 }
+
+const setTicket=()=>{
+   return true 
+}
