@@ -19,3 +19,7 @@ const getMe=(user)=>{
 const setTicket=()=>{
    return true 
 }
+
+function generateColor(){
+    return true
+}
