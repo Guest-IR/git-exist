@@ -7,3 +7,7 @@ const result=()=>{
 const displikePost=()=>{
   return true
 }
+
+const getMe=(user)=>{
+  return user.name
+}
