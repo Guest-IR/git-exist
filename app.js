@@ -23,3 +23,6 @@ const setTicket=()=>{
 function generateColor(){
     return true
 }
+
+const ulElem=false;
+
