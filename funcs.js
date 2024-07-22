@@ -11,3 +11,8 @@ const displikePost=()=>{
 const getMe=(user)=>{
   return user.name
 }
+
+
+let object={
+  id:1
+}
