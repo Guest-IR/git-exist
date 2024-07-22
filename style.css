@@ -12,10 +12,3 @@ h2{
     text-align: center;
 }
 
-/*New Codes*/
-
-.forms{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
