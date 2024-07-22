@@ -16,3 +16,7 @@ const getMe=(user)=>{
 let object={
   id:1
 }
+
+const setCommit=()=>{
+    return false 
+}

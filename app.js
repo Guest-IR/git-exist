@@ -20,8 +20,9 @@ const setTicket=()=>{
    return true 
 }
 
-const setComment=(comment)=>{
-   return comment.body
+function generateColor(){
+    return true
 }
 
-//Another Section
+const ulElem=false;
+
